@@ -6,9 +6,9 @@ import Register from "./pages/Register";
 import NotFound from "./pages/NotFound";
 import Header from "./common/Header";
 import {Toaster} from "react-hot-toast";
-import {useDispatch, useSelector} from "react-redux";
+import {useDispatch} from "react-redux";
 import {useEffect} from "react";
-import {RootState} from "@/redux/store";
+
 import {userdata} from "./common/UserData";
 import {errorCurrentuser, startCurrentuser, updateCurrentuser} from "./redux/slices/UserSlice";
 
