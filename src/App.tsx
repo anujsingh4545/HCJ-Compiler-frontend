@@ -14,7 +14,6 @@ import {errorCurrentuser, startCurrentuser, updateCurrentuser} from "./redux/sli
 
 function App() {
   const dispatch = useDispatch();
-  const user = useSelector((state: RootState) => state.userSlice.user);
 
   useEffect(() => {
     const getdata = async () => {
