@@ -33,7 +33,7 @@ const Compiler = () => {
 
   const loadUserCode = async () => {
     axios
-      .get(`http://localhost:4001/user/${user._id}`)
+      .get(`https://hcj-compiler-backend.vercel.app/user/${user._id}`)
       .then((response) => {
         console.log(response.data.url);
         if (response.data.url) {
