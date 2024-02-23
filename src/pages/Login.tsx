@@ -27,7 +27,7 @@ const Login = () => {
     setLoading(true);
 
     axios
-      .post("https://hcj-compiler-backend.vercel.app/signin", userdata)
+      .post("https://hcj-compiler-backend.vercel.app/user/signin", userdata)
       .then((response) => {
         if (response.data.success) {
           dispatch(updateCurrentuser(response.data.user));
