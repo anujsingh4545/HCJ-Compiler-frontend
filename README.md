@@ -15,6 +15,6 @@
 
 <img width="958" alt="image" src="https://github.com/anujsingh4545/HCJ-Compiler-frontend/assets/76861751/13afd1a9-ac8d-48b2-99f5-931e7c50f84b">
 
-<img width="505" alt="image" src="https://github.com/anujsingh4545/HCJ-Compiler-frontend/assets/76861751/d448fb16-3437-4214-b4dd-f4bf1d714f22">
+<img width="450" alt="image" src="https://github.com/anujsingh4545/HCJ-Compiler-frontend/assets/76861751/d448fb16-3437-4214-b4dd-f4bf1d714f22">
 
-<img width="448" alt="image" src="https://github.com/anujsingh4545/HCJ-Compiler-frontend/assets/76861751/c8f2d8ba-f6e1-4628-adf9-24b2ea2f784f">
+<img width="450" alt="image" src="https://github.com/anujsingh4545/HCJ-Compiler-frontend/assets/76861751/c8f2d8ba-f6e1-4628-adf9-24b2ea2f784f">
